@@ -16,6 +16,8 @@ An open-source bot for Roblox Karate.
 - Use Wado Ryu for best results
 - Use default settings
 - Make sure shift lock is unlocked (For flicks)
+- F to enable/disable fighting
+- R to toggle the guis visibility
 
 ## Contributing
 Feel free to improve anything — PRs are welcome.
